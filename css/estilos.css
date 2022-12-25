@@ -13,8 +13,9 @@ body{
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #container h1 {
-    font-size: 70%;
+    font-size: 20px;
 }
