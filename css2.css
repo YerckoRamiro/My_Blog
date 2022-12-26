@@ -13,9 +13,17 @@ body{
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
-    font-family: "arial";
+    font-family: "curier";
 }
 
 #contenedor h1 {
     font-size: 20px;
 }
+#cabeza {
+    background: blue;
+    font-weight: bold;
+    color: #ddd;
+    padding: 0.05em;
+    font-size: 15px;
+}
+
