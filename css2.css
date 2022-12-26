@@ -1,0 +1,21 @@
+body{
+
+    color:  gray;
+    text-align: center;
+    font-family: "Curier";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#contenedor {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    font-family: "Courier";
+}
+
+#contenedor h1 {
+    font-size: 20px;
+}
