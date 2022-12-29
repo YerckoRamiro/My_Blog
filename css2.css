@@ -26,4 +26,8 @@ body{
     padding: 0.05em;
     font-size: 15px;
 }
-
+#Dios {
+    background-color: red;
+    color:burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
