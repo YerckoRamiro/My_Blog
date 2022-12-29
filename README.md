@@ -1,2 +1,2 @@
 # My_Blog
-Este es blog de Yercko Ramiro Nina Gomez
+Este es blog de Yercko Ramiro Nina Gomez 2
