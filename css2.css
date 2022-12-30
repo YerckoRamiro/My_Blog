@@ -1,6 +1,6 @@
 body{
 
-    color:  rgb(55, 0, 252);
+    background-color: #1e1f24;
     text-align: center;
     font-family: "arial";
     font-size: 16px;
@@ -18,12 +18,20 @@ body{
 
 #contenedor h1 {
     font-size: 20px;
+    text-align: center;
+    padding-left: 20px;
+}
+#cabeza #logo {
+    width: 20px;
+    vertical-align: middle;
 }
 #cabeza {
-    background: blue;
+    background: blue ;
     font-weight: bold;
     color: #ddd;
     padding: 0.05em;
     font-size: 15px;
 }
-
+#poster {
+    background-color: #ddd;
+}
